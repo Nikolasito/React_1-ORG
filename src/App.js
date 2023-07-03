@@ -1,7 +1,7 @@
 import './App.css';
 import Header from './components/Header/header';
 import Formulario from './components/Formulario/formulario';
-
+import Miorg from './components/Miorg';
 
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
     <div >
       <Header/>
       <Formulario/>
-
+      <Miorg/>
       
       
     </div>
